@@ -63,7 +63,8 @@ header nav li{
 .right h2{
     font-size: 26px;
     text-transform: capitalize;
-    text-decoration: underline;
+    font-family: 'Courier New';
+    font-weight: bolder;
     margin-bottom: 5px; 
 }
 
@@ -71,16 +72,17 @@ header nav li{
     line-height: 26px;
     height: 275px;
     overflow: auto;
+    font-family: Verdana;
+    font-weight: lighter;
 }
 
 .right button{
     border: none;
     padding: 5px 10px;
-    background: #000;
+    background: lightcoral;
     color: #fff;
     border-radius: 3px;
     margin-top: 10px;
-
 }
 
 header section{
